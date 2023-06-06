@@ -1,5 +1,8 @@
 ## Sistema de Caronas para a comunidade da UFMG
-
+1. Install node
+2. Install yarn (npm install --global yarn)
+3. Run yarn on terminal
+4. Run yarn rund dev on terminal
 # Membros
 
 Arthur de Oliveira Lima - 2019027318 - Product Owner
